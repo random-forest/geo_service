@@ -1,28 +1,26 @@
 <pre>
-XXXXXXXXXXXXXXXXXXXXXXXXXXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXA
-sXsXXXXXXXXXXXXXXXXXXXXXXXAXAAXAAXAAAAAAXAXXXXXXXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXAAAAAAAAXXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXssssXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-AAAAAAXXXXAAAXXXXXXXXXXXXXXXXXXXXXXXXsXXXXXXssssssssssssssXXXssXXXXXXXXsXXXXsXssXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-AAAAAAAXXXAXXXXXXXXXXXXXXXXXXXssssssssssXXXXXXXXXXXXssssssssssssssXXXXXXXXXssXXXssXXssXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-AAAAAAAXXXXXXXXAAAAAAAAAAAAAAXXXXXssssssssssssssXXXXXXXXXXsssssssssssssssssXXXXXssXsssXXXXXXXXXsXXXXXXXXXXXXXXXXXX
-AAAAAAXXXXXXXXXrrrrsssXXXXXAAAAAAAAAAAAAXXXXsssssXXXXXXXXXXsssssssssssssssssssssssXsXXXXXssssssssssXXXXXXXXXXXXXXX
-AAAAAXXXXXXXXXX::::::~:;:;;;;iiiirrrsssXXXAAAAAAXXXXXXXXXXXXsXXXsssssssssssssssssssssssssssssssssssssXXXXXXXXXXXXX
-AAAAAXXXXXXXXXX::;;::::;;:~:::~~~::~,   ..,,~~:sAXAAAAAXXAAAAAAAAAXXXXssssssssssssssssssssXXXXXXXXXXXXXXXXXXXXXXXX
-AAAAAXXXAXAXXAX::;;;;::;:;::;i:::i;;:~         :XAAAAAAi.,~~~:;;iirrsXXXXXXAXXXXXXXXXXXXXXXXXXsMODERN LIFE ISWARXX
-AAAAAXXXXXXXXXX;;;ii;;;;;:;;;;;:~:;;;:~.       :XXAAAXA; ::          ..~sAAAXXXAiiirrrsXXXXXXXXXXXssssXXXXXXXXXXXX
-AAAAAXXXXXXXXXX:::;:::::;;;::::~~~~::;i;:~...  :XAAAAXA;,;i:,,,~:~~~~~~:rAAXXssA,     :AAAX;;rrisXAXXXsXXXXXXXXXAA
-AAAAXXXXXXXXXXX;:::::::::;:::::;;:::~;;;:::~~~~:XAAAAAAr:;;;;;;;::::;;::rAAssssX:~~,,,:AAAX;;r:.;XXXXr,rXsrsXXAXXA
-AAAAXXXXXXXXXAX:::::;;;:ii;i;ii;:::;:;;::;;:::~:XAAAAAAsi;;;;;;;;:::;;;:rAXXsrsX;::::::AAAs:;rr;rXXXXXXXXXXXsssrsX
-AAAAXXXXXXXXXAX:;;iiii;;;r;;i;;~:;;;::;::;::;::;AAAAAAAri;;;;;;ii;;;;:;:sAXriiXX:;iirirAXAXsXXXssXXXXi~:X;;i;rXsrs
-AAAAXXXXAXXXXXXiiiiiiiri;iiiii;:;i;;;::;;::::~~;AAAAAAAr;rririiriiiiiiiisXXsssXXsssssAXAAAsi;ri:iXXssr;isrrsrAAAAX
-AAAAXXsXXXXXXXsi;;ii;;iiririir;;iiiii;i;;:::::~;AAAAAAAsrssrsssssssssssssXXssrXXrrrrrsXXAAXXXXXAAAAXXAAAAAAAAAAAAA
-AAAAAXXXXXXXXXs;;:;ii;;ii;i;;;:;;;iiiiiirrrrrrirXXXAAAAAAXXXsXsssssssXsssXXriiXXXXAAXXAAAAXXAAAAAAAAAAAAAAAAAAAAXX
-AAAAAAXXXXXXXXsiiirrrrrrirrrrrrsssssssssXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsssrrissssssXAAAAAXAAAAAAAAAXXXXXXXsssXXss
-AAAAAAXXAXXXXXXXXXXXXXXXXXXXXAXXXXXXXXXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXsrXsrssssssssssXXXXXssXXXsrrrrrsssrrrrrrrs
-AAAAAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXAXXAAAAAArsXrrssssrXAAAAXsXXs;iiiiiiirrrrrrrrrrssss
-AAAAAAAXXXXAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAAAAAAAXXXXsssrrriiir;ir;;;;iXAAAAXsXXsiiiiiirrrrrrrrrrssssss
-AAAAAAAXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXAAAAAAAAAAXXXXssssrrrrriiiiiiiii;irirriiiirXXXXXXsXXrirrrrrrrrrrrrsssssssss
-AAAAAAAXXXXXXXXXXXXXXXXXAAXAAAAAAAAAAAXXXXsssrrriiiii;;;;;;iiiiiiiiiiiiirrrrsssssssssssssXXsssssssssssssssssssssss
-AAAAAAAAXXXXXXAAAAAAAAAAAAAXXXXXsssrrrriiiii;;;;;;;;iiiiiiiiiiiiiiiiiiiirrrrrrsssssssXXXXXXXXXXXXXXXXXXssssssssssX
-AAAAAAAAXXXXXXAAAAAXXXXsssrrriiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiirrrirrrrrrrrrrrrrrssssssssssXXXXXXXXXXXXXXXXXXXXXXXX
+            ._                                            ,
+             (`)..                                    ,.-')
+              (',.)-..                            ,.-(..`)         
+               (,.' ,.)-..                    ,.-(. `.. )                    
+                (,.' ..' .)-..            ,.-( `.. `.. )                     
+                 (,.' ,.'  ..')-.     ,.-( `. `.. `.. )                      
+                  (,.'  ,.' ,.'  )-.-('   `. `.. `.. )                       
+                   ( ,.' ,.'    _== ==_     `.. `.. )                        
+                    ( ,.'   _==' ~  ~  `==_    `.. )                     
+                     \  _=='   ----..----  `==_   )                     
+                  ,.-:    ,----___.  .___----.    -..                        
+              ,.-'   (   _--====_  \/  _====--_   )  `-..                 
+          ,.-'   .__.'`.  `-_I0_-'    `-_0I_-'  .'`.__.  `-..     
+      ,.-'.'   .'      (          |  |          )      `.   `.-..  
+  ,.-'    :    `___--- '`.__.    / __ \    .__.' `---___'    :   `-..      
+-'_________`-____________'__ \  (O)  (O)  / __`____________-'________`-     
+                            \ . _  __  _ . /                               
+                             \ `V-'  `-V' |                                 
+                              | \ \ | /  /                                 
+                               V \ ~| ~/V                                   
+                                |  \  /|                                    
+                                 \~ | V                                  
+                                  \  |                                        
+                                   VV
 </pre>
